@@ -1,0 +1,1 @@
+web: facebook_project.wsgi --log-file -
