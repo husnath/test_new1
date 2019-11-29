@@ -1,1 +1,1 @@
-web: facebook_project.wsgi --log-file -
+web: gunicorn facebook_project.wsgi --log-file -
